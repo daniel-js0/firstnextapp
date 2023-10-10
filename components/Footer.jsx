@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Footer({}) {
+export default function Footer() {
   return (
     <div className=' fixed bottom-0 w-[100%] z-20'>
    <div className='  h-14 bg-zinc-800 flex justify-center'>

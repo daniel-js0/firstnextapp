@@ -131,7 +131,7 @@ export default function Home() {
             
 
                 {!click && (<div className={`mt-28 max-[500px]:h-[43rem] max-[376px]:h-[31rem]  h-[29rem]  md:w-[50%] w-[80%] max-[500px]:ml-3 
-                 max-[281px]:h-[28rem] max-[500px]:w-[94%]  lg:ml-[25%] rounded-ss-2xl rounded-ee-2xl ${darkmode ? 'bg-zinc-800' : 'bg-gray-300'}`} 
+                 max-[281px]:h-[28rem] max-[500px]:w-[94%]  lg:ml-[25%] rounded-ss-2xl rounded-ee-2xl ${darkmode ? 'bg-zinc-800' : 'bg-gray-200'}`} 
                   > 
                 
                   <p className={` grayscale backdrop-blur-sm px-10 py-5 justify-center pb-2 overflow-hidden overflow-x-auto overflow-y-auto h-[28rem] max-[500px]:h-[42rem] max-[281px]:h-[27rem] font-semibold ${darkmode ? 'text-gray-300 ': 'text-black '}`}>
